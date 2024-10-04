@@ -1,0 +1,17 @@
+button {
+    padding: 20px 30px;
+    font-size: 16px;
+    color: white; 
+    border: none;
+    cursor: pointer;
+
+}
+
+button:first-of-type {
+    background-color: rgb(15, 14, 14); 
+}
+
+button:last-of-type {
+    background-color: rgb(187, 221, 17); 
+}
+
